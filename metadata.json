@@ -1,0 +1,6 @@
+{
+  "name": "SSP Reel shorts",
+  "description": "Futuristic dark-themed short-video and social application with glassmorphic design and neon lighting aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
